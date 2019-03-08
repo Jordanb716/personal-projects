@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <sys/random.h>
 
+#include "pops.h"
+
 void roll(int*);
 
 void main(int argc, const char* argv[]){
